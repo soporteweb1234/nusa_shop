@@ -33,7 +33,7 @@ export default async function HomePage() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-start">
           <div>
             <blockquote className="font-heading text-[clamp(2rem,4vw,3.5rem)] tracking-tighter text-text-primary leading-tight">
-              "The practice of restraint yields timeless form."
+              &ldquo;The practice of restraint yields timeless form.&rdquo;
             </blockquote>
           </div>
           <div className="space-y-6">
